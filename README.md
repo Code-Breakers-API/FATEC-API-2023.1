@@ -64,13 +64,20 @@ _Em breve_
 
 
 ## :busts_in_silhouette: Equipe <a id="equipe"></a>
-||Integrantes|Função|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194735815-b3fc4048-bce9-4a70-af44-36583c8ca0e7.png" width=115></div>|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737247-64ed8ec4-2b71-46ff-8d22-539b4015d7be.png" width=115></div>|
+||Integrantes|Função|GitHub|LinkedIn|
 |--|-----------|------|------|--------|
-|<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825945-ac0c371f-4763-4dbe-95bf-f34a9dd2128b.jpeg" width=50></div>|**Ana Tainara da Silva Rosa**| PO|<div align="center">[GitHub](https://github.com/anatainararosa)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/anatainararosa/)</div>|
-|<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825629-e69d378e-1c29-4436-9aa5-b591b667f0d8.jpeg" width=50></div>|**Gabriela da Silva Barbosa**| SM|<div align="center">[GitHub](https://github.com/gabidsbarbosa)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/gabrieladsbarbosa/)</div>|
-|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194735729-e1a6aea7-ec46-4318-83b1-51a4958f6fc1.jpeg" width=50></div>|**Aline Cristiane Correa Costa**| DT|<div align="center">[GitHub](https://github.com/acorreac)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/alinecorrea/)</div>|
-|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737614-116ff444-4c9b-4448-b0b3-8dad2d650c4d.jpeg" width=50></div>|**Eshilley Hiury Minicucci Vianna Barbosa**| DT|<div align="center">[GitHub](https://github.com/EshilleyBa)</div>|<div align="center">[]()</div>|
+|<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825945-ac0c371f-4763-4dbe-95bf-f34a9dd2128b.jpeg" width=50></div>|**Ana Tainara da Silva Rosa**| PO|<div align="center"><a href="https://github.com/anatainararosa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|<a href="https://www.linkedin.com/in/anatainararosa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+|<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825629-e69d378e-1c29-4436-9aa5-b591b667f0d8.jpeg" width=50></div>|**Gabriela da Silva Barbosa**| SM|<div align="center"> <a href="https://github.com/gabidsbarbosa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|<a href="https://www.linkedin.com/in/gabrieladsbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194735729-e1a6aea7-ec46-4318-83b1-51a4958f6fc1.jpeg" width=50></div>|**Aline Cristiane Correa Costa**| DT|<a href="https://github.com/acorreac"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|<a href="https://www.linkedin.com/in/alinecorrea/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737614-116ff444-4c9b-4448-b0b3-8dad2d650c4d.jpeg" width=50></div>|**Eshilley Hiury Minicucci Vianna Barbosa**| DT|
+
+<div align="center">[GitHub](https://github.com/EshilleyBa)</div>|<div align="center">[]()</div>|
 |<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825500-651c1ea1-2272-42c8-9dbf-33055bcc34a1.jpeg" width=50></div>|**José Victor Henninger**| DT|<div align="center">[GitHub](https://github.com/HenningerJv)</div>|<div align="center">[]()</div>|
+
+
+<a href="https://github.com/jeejinf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+
 
 
 <br>
