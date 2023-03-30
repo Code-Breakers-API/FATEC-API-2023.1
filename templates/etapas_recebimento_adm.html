@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Etapas de recebimento</title>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="info-adm">
+            <h1>Nome: {{ session['nomeAdm'] }}</h1>
+            <label>RM: {{ session['matriculaAdm'] }}</label>
+            <br><br><br>
+            <a href="#">Sair</a>
+        </div>
+        <hr>
+        <ul class="nav-list">
+            <a href="#">Home</a>
+            <br>
+            <a href="">Ver pedidos</a>
+            <br>
+            <a href="">Colaboradores</a>
+            <br>
+            <a href="">Etapas de Recebimento</a>
+        </ul>
+    </div>
+
+    <section class="container">
+        <h2>Etapas de Recebimentos</h2>
+        <hr>
+    </section>
+
+    <div class="button-pedidos">
+        <button><a href="">Portaria</a></button>
+        <button><a href="">Conferência Quantitativa</a></button>
+        <button><a href="">Conferência Qualitativa</a></button>
+        <br><br>
+        <button><a href="">Regulamentação</a></button>
+    </div>
+</body>
+</html>
