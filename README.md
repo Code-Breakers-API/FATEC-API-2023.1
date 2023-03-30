@@ -47,7 +47,10 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 Wireframe
 
 ## 🗺️ Mapa Mental <a id="mapamental"></a>
-_Em breve_
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/112491854/228823336-092aad67-4de2-4a9e-a11f-3b6c0fcab6c4.png" width="700px"/>
+</div>
 
 ## 🛠️ Tecnologias Utilizadas <a id="tecnologia"></a>
 _Em breve_
@@ -57,11 +60,11 @@ _Em breve_
 ## :busts_in_silhouette: Equipe <a id="equipe"></a>
 ||Integrantes|Função|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194735815-b3fc4048-bce9-4a70-af44-36583c8ca0e7.png" width=115></div>|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737247-64ed8ec4-2b71-46ff-8d22-539b4015d7be.png" width=115></div>|
 |--|-----------|------|------|--------|
-|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737529-8081336b-55c0-48fe-a852-b26fe1e15246.jpeg" width=50></div>|**Ana Tainara da Silva Rosa**|PO|<div align="center">[GitHub](https://github.com/anatainararosa)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/anatainararosa/)</div>|
-|<div align="center"><img src=" " width=50></div>|**Gabriela da Silva Barbosa**|SM|<div align="center">[GitHub](https://github.com/gabidsbarbosa)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/gabrieladsbarbosa/)</div>|
-|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194735729-e1a6aea7-ec46-4318-83b1-51a4958f6fc1.jpeg" width=50></div>|**Aline Cristiane Correa Costa**|DT|<div align="center">[GitHub](https://github.com/acorreac)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/alinecorrea/)</div>|
-|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737614-116ff444-4c9b-4448-b0b3-8dad2d650c4d.jpeg" width=50></div>|**Eshilley Hiury Minicucci Vianna Barbosa**|DT|<div align="center">[GitHub](https://github.com/EshilleyBa)</div>|<div align="center">[]()</div>|
-|<div align="center"><img src="" width=50></div>|**José Victor Henninger**|DT|<div align="center">[GitHub](https://github.com/HenningerJv)</div>|<div align="center">[]()</div>|
+|<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825945-ac0c371f-4763-4dbe-95bf-f34a9dd2128b.jpeg" width=50></div>|**Ana Tainara da Silva Rosa**| PO|<div align="center">[GitHub](https://github.com/anatainararosa)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/anatainararosa/)</div>|
+|<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825629-e69d378e-1c29-4436-9aa5-b591b667f0d8.jpeg" width=50></div>|**Gabriela da Silva Barbosa**| SM|<div align="center">[GitHub](https://github.com/gabidsbarbosa)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/gabrieladsbarbosa/)</div>|
+|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194735729-e1a6aea7-ec46-4318-83b1-51a4958f6fc1.jpeg" width=50></div>|**Aline Cristiane Correa Costa**| DT|<div align="center">[GitHub](https://github.com/acorreac)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/alinecorrea/)</div>|
+|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737614-116ff444-4c9b-4448-b0b3-8dad2d650c4d.jpeg" width=50></div>|**Eshilley Hiury Minicucci Vianna Barbosa**| DT|<div align="center">[GitHub](https://github.com/EshilleyBa)</div>|<div align="center">[]()</div>|
+|<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825500-651c1ea1-2272-42c8-9dbf-33055bcc34a1.jpeg" width=50></div>|**José Victor Henninger**| DT|<div align="center">[GitHub](https://github.com/HenningerJv)</div>|<div align="center">[]()</div>|
 
 
 <br>
