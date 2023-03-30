@@ -12,6 +12,7 @@
  <a href="#cronograma">Cronograma das Entregas das Sprints</a> •
  <a href="#pbtotal">Backlog Total</a> •
  <a href="#pbatual">Backlog Atual</a> •
+  <a href="#prototipo">Protótipo</a> •
  <a href="#mapamental">Mapa Mental</a> •
  <a href="#tecnologia">Tecnologias utilizadas</a> •
  <a href="#equipe">Equipe</a> 
@@ -49,6 +50,8 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 |3|Protótipo Navegável|
 |4|Levantamento de Requisitos|
 
+## Protótipo <a id="prototipo"></a>
+_Em breve_
 
 ## 🗺️ Mapa Mental <a id="mapamental"></a>
 
