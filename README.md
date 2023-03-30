@@ -44,9 +44,11 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 ## :pencil: Product Backlog Atual <a id="pbatual"></a>
 |Sprint|Requisitos|
 |------|----------|
-|1|Protótipo Navegável|
+|1|Wireframe|
+|2|Mockup|
+|3|Protótipo Navegável|
+|4|Levantamento de Requisitos|
 
-Wireframe
 
 ## 🗺️ Mapa Mental <a id="mapamental"></a>
 
