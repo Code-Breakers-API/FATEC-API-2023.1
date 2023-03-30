@@ -26,7 +26,7 @@ São integradas as disciplinas de “Técnica de Programação I”, “Desenvol
 
 
 ## :dart: Objetivo <a id="objetivo"></a>
-O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jaia Software), criar um Sistema para a Inspeção de Entrada para controle de recebimento de grãos, no agroinsdústria. No sistema, os colaboradores registram as etapas do recebimento de acordo com as regras, gerando assim um maior controle dos produtos.
+O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jaia Software), criar um Sistema para a Inspeção de Entrada para controle de recebimento de grãos, no agroindústria. No sistema, os colaboradores registram as etapas do recebimento de acordo com as regras, gerando assim um maior controle dos produtos.
 <br>
 >_Projeto em andamento_ 🚧
 
