@@ -5,8 +5,14 @@
 Este repositório é utilizado para compartilhar o desenvolvimento e entregas do Projeto de Aprendizagem Integrada (API), desenvolvido no curso de Desenvolvimento de Software Multiplataforma, da Faculdade de Tecnologia de São José dos Campos (FATEC) - Professor Jassen Vidal.
 São integradas neste projeto as disciplinas de “Técnica de Programação I”, “Desenvolvimento Web II” e “Engenharia de Software II”.
 
+
+
+
 ## :dart: Objetivo
-O objetivo do projeto é criar um Sistema para a Inspeção de Entrada para controle de recebimento de grãos, no agroinsdústria.
+O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jaia Software), criar um Sistema para a Inspeção de Entrada para controle de recebimento de grãos, no agroinsdústria. No sistema, os colaboradores registram as etapas do recebimento de acordo com as regras, gerando assim um maior controle dos produtos.
+**Projeto em andamento**
+
+
 
 # :busts_in_silhouette: Equipe
 ||Integrantes|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194735815-b3fc4048-bce9-4a70-af44-36583c8ca0e7.png" width=115></div>|<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737247-64ed8ec4-2b71-46ff-8d22-539b4015d7be.png" width=115></div>|
@@ -16,3 +22,23 @@ O objetivo do projeto é criar um Sistema para a Inspeção de Entrada para cont
 |<div align="center"><img src="https://user-images.githubusercontent.com/86271800/194737614-116ff444-4c9b-4448-b0b3-8dad2d650c4d.jpeg" width=50></div>|**Eshilley Hiury Minicucci Vianna Barbosa**|<div align="center">[GitHub](https://github.com/EshilleyBa)</div>|<div align="center">[]()</div>|
 |<div align="center"><img src=" " width=50></div>|**Gabriela da Silva Barbosa**|<div align="center">[GitHub](https://github.com/gabidsbarbosa)</div>|<div align="center">[Linkedin](https://www.linkedin.com/in/gabrieladsbarbosa/)</div>|
 |<div align="center"><img src="" width=50></div>|**José Victor Henninger**|<div align="center">[GitHub](https://github.com/HenningerJv)</div>|<div align="center">[]()</div>|
+
+
+
+
+## Sobre o projeto
+# :book: Índice
+## :scroll: Instruções
+## :open_file_folder: Arquivos build
+### :bar_chart: Banco de Dados
+# :pencil: Product Backlog Total
+# :pencil: Product Backlog Atual
+|Sprint|Requisitos|
+|------|----------|
+|1|requisito|
+
+# :triangular_flag_on_post: Minimum Viable Product(MVP) 
+# :computer: Demonstração do Projeto
+# :calendar: Cronograma de Entregas* 
+# :floppy_disk: Tecnologias Utilizadas
+
