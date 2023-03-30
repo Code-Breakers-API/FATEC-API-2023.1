@@ -53,6 +53,12 @@ Wireframe
 </div>
 
 ## 🛠️ Tecnologias Utilizadas <a id="tecnologia"></a>
+<img src= https://user-images.githubusercontent.com/112491854/228847483-3667d544-193e-416e-8104-0aded891330f.png  width="80px"/> <img src= https://user-images.githubusercontent.com/112491854/228846681-968964d6-8afa-43f8-95d4-0684a36f3136.png width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"  width="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="80px"/> <img src= "https://user-images.githubusercontent.com/112491854/228849126-b0056cb9-bbf4-4c14-a6e3-3a09cceeef9c.png" width="80px"/>
+          
+          
+          
+
+          
 _Em breve_
 
 
