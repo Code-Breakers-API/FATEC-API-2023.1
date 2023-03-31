@@ -41,9 +41,11 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 
 
 ## :pencil: Product Backlog Total <a id="pbtotal"></a>
+ _Em breve_
 
 ## :pencil: Product Backlog Atual <a id="pbatual"></a>
-|Sprint|Requisitos|
+#### Sprint 1
+|Item|Requisitos|
 |------|----------|
 |1|Wireframe|
 |2|Mockup|
@@ -62,7 +64,7 @@ _Em breve_
 ## 🛠️ Ferramentas e Tecnologias Utilizadas <a id="tecnologia"></a>
 <img src= https://user-images.githubusercontent.com/112491854/228847483-3667d544-193e-416e-8104-0aded891330f.png  width="80px"/> <img src= https://user-images.githubusercontent.com/112491854/228846681-968964d6-8afa-43f8-95d4-0684a36f3136.png width="80px"/> <img src="https://user-images.githubusercontent.com/112491854/228879118-c7c1a761-a37a-4f42-8579-b4c7c4172b40.png" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"  width="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="80px"/> <img src= "https://user-images.githubusercontent.com/112491854/228849126-b0056cb9-bbf4-4c14-a6e3-3a09cceeef9c.png" width="80px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80px"/><img src="https://user-images.githubusercontent.com/112491854/228893785-ffa83f1d-188d-434f-9b0a-85c757547766.jpg" width="80px"/>
           
-_Em atualização_
+_Em atualização 🚧_
 
 
 
@@ -76,26 +78,3 @@ _Em atualização_
 |<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825500-651c1ea1-2272-42c8-9dbf-33055bcc34a1.jpeg" width=50></div>|<div align="center">**José Victor Henninger**|<div align="center">DT|<div align="center"><a href="https://github.com/HenningerJv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|  |
 
  → [Voltar ao topo](#topo)
-
-
- 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-## Sobre o projeto
-## :book: Índice
-## :scroll: Instruções
-## :open_file_folder: Arquivos 
-## :bar_chart: BD
-
-### :triangular_flag_on_post: Minimum Viable Product(MVP) 
-### :computer: Demonstração do Projeto
-
-
