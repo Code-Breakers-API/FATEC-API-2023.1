@@ -14,7 +14,7 @@
  <a href="#pbatual">Backlog Atual</a> •
   <a href="#prototipo">Protótipo</a> •
  <a href="#mapamental">Mapa Mental</a> •
- <a href="#tecnologia">Tecnologias utilizadas</a> •
+ <a href="#tecnologia">Ferramentas e Tecnologias Utilizadas</a> •
  <a href="#equipe">Equipe</a> 
 </p>
 <hr>
