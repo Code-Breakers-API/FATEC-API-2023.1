@@ -33,12 +33,12 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 
 ## :checkered_flag: Cronograma de Entregas das Sprints <a id="cronograma"></a>
 |Sprint|Previsão de Entrega|
-|-------|-------------------|
-| 01 | 02/04/2023 |
-| 02 | 23/04/2023 |
-| 03 | 14/05/2023 |
-| 04 | 04/06/2023 |
-
+|-------|-------------------|----------|
+| 01 | 02/04/2023 | <a href="https://github.com/Code-Breakers-API/FATEC-API-2023.1/blob/main/docs/reame.md"> Veja aqui <a> |
+| 02 | 23/04/2023 |  [Veja aqui](https://github.com/Code-Breakers-API/FATEC-API-2023.1/blob/main/docs/reame.md)|
+| 03 | 14/05/2023 |  |
+| 04 | 04/06/2023 |  |
+ 
 
 ## :pencil: Product Backlog Total <a id="pbtotal"></a>
  _Em breve_
