@@ -33,10 +33,10 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 ## :checkered_flag: Cronograma de Entregas das Sprints <a id="cronograma"></a>
 |Sprint|Previsão de Entrega|Status|Tag|
 |-------|-------------------|------|------|
-| 01 | 02/04/2023 | ✔️ Entregue | |
-| 02 | 23/04/2023 | ⌛ Em andamento | |
-| 03 | 14/05/2023 | ❌ Não iniciada | |
-| 04 | 04/06/2023 | ❌ Não iniciada | |
+| <div align="center"> 01 </div>|<div align="center"> 02/04/2023 </div>|<div align="center"> ✔️ Entregue </div>| |
+| <div align="center"> 02 </div>|<div align="center"> 23/04/2023 </div>|<div align="center"> ⌛ Em andamento </div>| |
+| <div align="center"> 03 </div>|<div align="center"> 14/05/2023 </div>|<div align="center"> ❌ Não iniciada </div>| |
+| <div align="center"> 04 </div>|<div align="center"> 04/06/2023 </div>|<div align="center"> ❌ Não iniciada </div>| |
  
 
 ## :pencil: Product Backlog Total <a id="pbtotal"></a>
