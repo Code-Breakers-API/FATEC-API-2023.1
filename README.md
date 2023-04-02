@@ -11,8 +11,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#cronograma">Cronograma das Entregas das Sprints</a> •
  <a href="#pbtotal">Backlog Total</a> •
- <a href="#pbatual">Backlog Atual</a> •
-  <a href="#prototipo">Protótipo</a> •
+ <a href="#prototipo">Protótipo</a> •
  <a href="#mapamental">Mapa Mental</a> •
  <a href="#tecnologia">Ferramentas e Tecnologias Utilizadas</a> •
  <a href="#equipe">Equipe</a> 
@@ -43,17 +42,7 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 ## :pencil: Product Backlog Total <a id="pbtotal"></a>
  _Em breve_
 
-## :pencil: Product Backlog Atual <a id="pbatual"></a>
-#### Sprint 1
-|Item|Requisitos|
-|------|----------|
-|1|Wireframe|
-|2|Mockup|
-|3|Protótipo Navegável|
-|4|Levantamento de Requisitos|
 
-## Mockup 
-[Acessar Mockup](https://www.figma.com/file/1oyCYA2arQPDgpHGzofpQT/mockup?node-id=0%3A1&t=eHcDVI6zLe6ueaD8-1)
 
 ## Protótipo <a id="prototipo"></a>
 _Em breve_
@@ -81,3 +70,49 @@ _Em atualização 🚧_
 |<div align="center"><img src="https://user-images.githubusercontent.com/112491854/228825500-651c1ea1-2272-42c8-9dbf-33055bcc34a1.jpeg" width=50></div>|<div align="center">**José Victor Henninger**|<div align="center">DT|<div align="center"><a href="https://github.com/HenningerJv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>|  |
 
  → [Voltar ao topo](#topo)
+
+
+
+<hr>
+# <div align="center"> Sprint 1: 13/03/2023 a 02/04/2023 </div>
+<a href="#pbatual">Backlog Atual</a> •
+<a href="#pbatual">Mockup</a> •
+
+## <div align="center"> Backlog Sprint 1 </div>
+
+
+
+
+ 📊
+📊
+
+<a href="#pbatual">Backlog Atual</a> •
+<a href="#pbatual">Mockup</a> •
+
+## :pencil: Product Backlog Atual <a id="pbatual"></a>
+#### Sprint 1
+|Item|Requisitos|
+|------|----------|
+|1|Wireframe|
+|2|Mockup|
+|3|Protótipo Navegável|
+|4|Levantamento de Requisitos|
+
+## Entregas
+#### Levantamento de Requisitos
+#### Elaboração de Wireframe e Mockup
+
+
+ ## Mockup <a id="mockup"></a>
+[Acessar Mockup](https://www.figma.com/file/1oyCYA2arQPDgpHGzofpQT/mockup?node-id=0%3A1&t=eHcDVI6zLe6ueaD8-1)
+
+
+#### Desenvolvimento de Prótotipo
+## Protótipo <a id="prototipo"></a>
+_Em breve_
+
+
+
+## Modelo Conceitual de Banco de Dados
+_Em breve_
+
