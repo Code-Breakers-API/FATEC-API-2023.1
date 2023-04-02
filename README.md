@@ -40,7 +40,20 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
  
 
 ## :pencil: Product Backlog Total <a id="pbtotal"></a>
- _Em breve_
+| ID | Sprint |	Requisitos |	User Storie |
+|----|--------|------------|----------------|
+|US01 |	1 |	Protótipo Navegável	| |
+|US02 |	2 |	Análise do Produto |	Eu, enquanto Analista, desejo analisar o produto recebido de acordo com o relatório de compra e nota fiscal do recebimento. |
+|US03 |	2 |	Regularização de análise | 	Eu, enquanto Regularização, desejo verificar a mercadoria após análise. |
+|US04 |	2 |	Relatório de Recebimento | 	Eu, como Regularização, desejo ter acesso ao relatório de recebimento e análise. |
+|US05 |	3 |	Acesso a tela de AdmMaster (login) |	Eu, enquanto administrador desejo logar como 'Usuário Master', para ter acesso a todo o sistema. |
+|US06 |	3 |	Cadastros de Fornecedores |	Eu, como Administrador Master, desejo ter acesso a tela de cadastro para cadastrar novos fornecedores. |
+|US07 |	3 |	Cadastros de Produtos |	Eu, como Administrador Master, desejo ter acesso a tela de cadastro para cadastrar novos produtos. |
+|US08 |	3 |	Cadastros de Regras de Recebimentos |	Eu, como Administrador Master, desejo ter acesso a tela de configurações para adicionar e definir as regras de recebimento. |
+|US09 |	3 |	Edição de Cadastro existentes |	Eu, como Administrador Master, desejo visualizar e editar os cadastros exisitentes no sistema. |
+|US10 |	4 |	Login Usuário Analista |	Eu, como Analista, desejo logar de acordo com as permissões do meu perfil. |
+|US11 |	4 |	Login Usuário Regularização |	Eu, como Regularização, desejo logar de acordo com as permissões do meu perfil. |
+|US12 |	4 |	Criação de Perfis de Usuário (Analista/Regularização) |	Eu, enquanto Administrador Master, desejo criar usuário. |
 
 
 
