@@ -35,7 +35,7 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 |Sprint|Previsão de Entrega|Status|Tag|
 |-------|-------------------|------|------|
 | 01 | 02/04/2023 | ✔️ Entregue | |
-| 02 | 23/04/2023 | ⌛ Em andamento ⌛ | |
+| 02 | 23/04/2023 | ⌛ Em andamento | |
 | 03 | 14/05/2023 | ❌ Não iniciada | |
 | 04 | 04/06/2023 | ❌ Não iniciada | |
  
