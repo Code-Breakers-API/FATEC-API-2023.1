@@ -56,6 +56,22 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 |<div align="center"> US12 </div>|<div align="center">	4 </div>|	<div align="center"> Criação de Perfis de Usuário (Analista/Regularização) </div>|	Eu, enquanto Administrador Master, desejo criar usuário. |
 
 
+## :curly_loop: Definitions of Ready(DoR) <a id="DoR"></a>
+Requisitos da primeira sprint:
+|Artefato|Descrição|
+|-------|-------------------|
+| <div align="center"> Backlog Total </div>|<div align="center"> Documento necessário para o levantamento das UserStorys a serem entregues, em ordem de prioridade, em cada sprint.</div>| |
+| <div align="center"> Wireframe </div>|<div align="center"> Esboço fundamental para o desenvolvimento do protótipo e posteriormente das interfaces.</div>| |
+| <div align="center"> Modelo Conceitual do Banco de Dados </div>|<div align="center"> Imprescindível para o direcionamento do projeto, tanto no armazenamento dos dados como no desenvolvimento do backend.</div>| |
+
+## :ballot_box_with_check: Definition of Done(DoD) <a id="DoD"></a>
+Requisitos da primeira sprint:
+|Artefato|Descrição|
+|-------|-------------------|
+| <div align="center"> Mockup </div>|<div align="center"> Definição, de primeiro momento, do design das interfaces seguindo o esboço do wireframe.</div>| |
+| <div align="center"> Protótipo Navegável </div>|<div align="center"> Simulação essecial do projeto para melhores definições de funcionalidades e armazenamento de dados.</div>| |
+| <div align="center"> Critérios de Aceitação </div>|<div align="center"> Importante para garantir a efetividade das funcionalidades.</div>| |
+
 
 ## Protótipo <a id="prototipo"></a>
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/112493146/229327363-909c5ef2-a46f-4d5d-a48c-d6be89f4d313.gif)
