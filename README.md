@@ -58,7 +58,8 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 
 
 ## Protótipo <a id="prototipo"></a>
-_Em breve_
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/112493146/229327363-909c5ef2-a46f-4d5d-a48c-d6be89f4d313.gif)
+
 
 ## 🗺️ Mapa Mental <a id="mapamental"></a>
 
