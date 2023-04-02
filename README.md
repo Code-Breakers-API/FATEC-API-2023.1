@@ -52,6 +52,9 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 |3|Protótipo Navegável|
 |4|Levantamento de Requisitos|
 
+## Mockup 
+[Acessar Mockup](https://www.figma.com/file/1oyCYA2arQPDgpHGzofpQT/mockup?node-id=0%3A1&t=eHcDVI6zLe6ueaD8-1)
+
 ## Protótipo <a id="prototipo"></a>
 _Em breve_
 
