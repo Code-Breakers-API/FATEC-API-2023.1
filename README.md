@@ -40,7 +40,7 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
  
 
 ## :pencil: Product Backlog Total <a id="pbtotal"></a>
-| ID | Sprint |	Requisitos |	User Storie |
+| ID | Sprint |	Requisitos |	User Stories |
 |----|--------|------------|----------------|
 |<div align="center"> US01 </div>|<div align="center">	1 </div>|	<div align="center"> Protótipo Navegável	</div>| |
 |<div align="center"> US02 </div>|<div align="center">	2 </div>|	<div align="center"> Análise do Produto </div>|	Eu, enquanto Analista, desejo analisar o produto recebido de acordo com o relatório de compra e nota fiscal do recebimento. |
