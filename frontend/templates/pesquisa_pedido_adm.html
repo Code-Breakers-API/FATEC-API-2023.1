@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ver pedidos</title>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="info-adm">
+            <h1>Nome: {{ session['nomeAdm'] }}</h1>
+            <label>Função: {{ session['funcaoAdministrativa'] }}</label>
+            <br>
+            <label>RM: {{ session['matriculaAdm'] }}</label>
+            <br><br><br>
+            <a href="#">Sair</a>
+        </div>
+        <hr>
+        <ul class="nav-list">
+            <a href="#">Home</a>
+            <br>
+            <a href="">Ver pedidos</a>
+            <br>
+            <a href="">Colaboradores</a>
+            <br>
+            <a href="">Etapas de Recebimento</a>
+            <br>
+            <a href="">Cadastros</a>
+        </ul>
+    </div>
+
+    <section class="container">
+        <h2>Home</h2>
+        <hr>
+    </section>
+
+    <div class="numero-ped">
+        <label>Número do pedido:</label>
+        <input type="text">
+        <button type="submit" class="pesquisar"></button>
+    </div>
+
+    <div class="info-ped">
+        <label>Número do pedido:</label>
+        <span>{{ session["numeroPedido"] }}</span>
+        <br>
+        <label>Nome do produto:</label>
+        <span>{{ session["pedidoNome"] }}</span>
+        <br>
+        <label>Fornecedor:</label>
+        <span>{{ session["fornecedorNome"] }}</span>
+        <br><br>
+        <button><a href="">Ver Detalhes</a></button>
+    </div>
+</body>
+</html>
