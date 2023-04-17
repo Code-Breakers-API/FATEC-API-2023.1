@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conferência Quantitativa</title>
+</head>
+<body>
+    <div class="sidebar">
+        <div class="info-adm">
+            <h1>Nome: {{ session['nomeColaborador2'] }}</h1>
+            <label>Função: {{ session['funcaoAdministrativa'] }}</label>
+            <br>
+            <label>RM: {{ session['matriculaColaborador2'] }}</label>
+            <br><br><br>
+            <a href="#">Sair</a>
+        </div>
+        <hr>
+        <ul class="nav-list">
+            <a href="#">Home</a>
+            <br><br>
+            <a href="">Conferência Quantitativa</a>
+        </ul>
+    </div>
+
+    <section class="container">
+        <h2>Conferência Quantitativa</h2>
+        <hr>
+    </section>
+
+    <div class="ver-fiscal">
+        <label>Número do pedido:</label>
+        <span>{{ session["numeroPedido"] }}</span>
+        <br><br>
+        <button><a href="">Ver Nota Fiscal</a></button>
+    </div>
+    <br>
+
+    <div class="info-ped">
+        <label class="checkbox">Descrição do Material:</label>
+        <input type="checkbox" name="conferir" required>
+        <span>Confere</span>
+        <input type="checkbox" name="conferir" required>
+        <span>Não Confere</span>
+        <br>
+        <label>Quantidade do Material:</label>
+        <span>{{ session["quantidadePedido"] }}</span>
+        <br>
+        <label>Volume:</label>
+        <span>{{ session["volumePedido"] }}</span>
+        <br><br>
+    </div>
+
+    <div class="aprove-prod">
+        <ul class="aprove-prod">
+            <a href="">Reprovar Conferência</a>
+            <button><a href="">Confirmar Conferência</a></button>
+        </ul>
+    </div>
+</body>
+</html>
