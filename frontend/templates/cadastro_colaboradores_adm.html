@@ -1,31 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastrar colaboradores</title>
 </head>
+
 <body>
     <div class="sidebar">
         <div class="info-adm">
             <h1>Nome: {{ session['nomeAdm'] }}</h1>
             <label>RM: {{ session['matriculaAdm'] }}</label>
             <br><br><br>
-            <a href="#">Sair</a>
+            <a href="../templates/login.html">Sair</a>
+            <hr>
+            <ul class="nav-list">
+                <a href="../templates/home_adm.html">Home</a>
+                <br>
+                <a href="../templates/ver_pedidos_adm.html">Ver pedidos</a>
+                <br>
+                <a href="../templates/colaboradores_adm.html">Colaboradores</a>
+                <br>
+                <a href="../templates/etapas_recebimento_adm.html">Etapas de Recebimento</a>
+                <br>
+                <a href="../templates/cadastros_adm.html">Cadastros</a>
+                <br>
+                <a href="../templates/regras_recebimento_adm.html">Regras de Recebimento</a>
+            </ul>
         </div>
-        <hr>
-        <ul class="nav-list">
-            <a href="#">Home</a>
-            <br>
-            <a href="">Ver pedidos</a>
-            <br>
-            <a href="">Colaboradores</a>
-            <br>
-            <a href="">Etapas de Recebimento</a>
-            <br>
-            <a href="">Cadastros</a>
-        </ul>
     </div>
 
     <section class="container">
@@ -45,87 +49,18 @@
             </div>
         </div>
 
-        <div class="campo-triplo">
+        <div class="campo-unico">
             <div class="info-conta">
                 <label>CPF:</label>
                 <input type="text" maxlength="11" name="cpf" required>
             </div>
-
-            <div class="info-conta">
-                <label>Gêneros:</label>
-                <select name="genero" id="genero" class="select" required>
-                    <option value="selecione">Selecione</option>
-                    <option value="masculino">Masculino</option>
-                    <option value="feminino">Feminino</option>
-                    <option value="outros">Outros</option>
-                </select>
-            </div>
-
-            <div class="info-conta">
-                <label>Data de Nascimento:</label>
-                <input type="date" class="data" name="dataAniversario" required>
-            </div>
         </div>
 
-        <div class="campo-triplo">
+        <div class="campo-unico">
             <div class="info-conta">
-                <label>CEP:</label>
-                <input type="text" maxlength="8" name="cep" required>
-            </div>
-
-            <div class="info-conta">
-                <label>Rua:</label>
-                <input type="text" name="endereco" required>
-            </div>
-
-            <div class="info-conta">
-                <label>Nº:</label>
-                <input type="text" class="numero" name="numero-endereco" required>
+                <label></label>
             </div>
         </div>
-
-        <div class="campo-triplo">
-            <div class="info-conta">
-                <label>Bairro:</label>
-                <input type="text" class="endereco" name="bairro" required>
-            </div>
-
-            <div class="info-conta">
-                <label>Cidade:</label>
-                <input type="text" class="endereco" name="cidade" required>
-            </div>
-
-            <div class="info-conta">
-                <label>Estado</label>
-                <select name="estado" id="estado" class="select" required>
-                    <option value="selecione">Selecione</option>
-                    <option value="rj">RJ</option>
-                    <option value="sp">SP</option>
-                    <option value="mg">MG</option>
-                    <option value="ac">AC</option>
-                    <option value="al">AL</option>
-                    <option value="ce">CE</option>
-                    <option value="df">DF</option>
-                    <option value="ma">MA</option>
-                    <option value="ap">AP</option>
-                    <option value="mt">MT</option>
-                    <option value="ms">MS</option>
-                    <option value="se">SE</option>
-                    <option value="to">TO</option>
-                    <option value="ba">BA</option>
-                    <option value="am">AM</option>
-                    <option value="es">ES</option>
-                    <option value="pa">PA</option>
-                    <option value="pb">PB</option>
-                    <option value="rn">RN</option>
-                    <option value="rd">RS</option>
-                    <option value="rr">RR</option>
-                    <option value="pr">PR</option>
-                    <option value="pe">PE</option>
-                    <option value="pi">PI</option>
-                    <option value="ro">RO</option>
-                </select>
-            </div>
 
             <div class="funcao">
                 <p>Função</p>
@@ -146,4 +81,5 @@
         <input type="submit" class="cadastrar" value="Cadastrar">
     </form>
 </body>
+
 </html>

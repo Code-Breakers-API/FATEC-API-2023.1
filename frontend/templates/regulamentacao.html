@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Regulamentação</title>
 </head>
+
 <body>
     <div class="sidebar">
         <div class="info-adm">
@@ -14,14 +16,14 @@
             <br>
             <label>RM: {{ session['matriculaColaborador4'] }}</label>
             <br><br><br>
-            <a href="#">Sair</a>
+            <a href="../templates/login.html">Sair</a>
+            <hr>
+            <ul class="nav-list">
+                <a href="../templates/home_regulamentacao.html">Home</a>
+                <br><br>
+                <a href="">Regulamentação</a>
+            </ul>
         </div>
-        <hr>
-        <ul class="nav-list">
-            <a href="#">Home</a>
-            <br><br>
-            <a href="">Regulamentação</a>
-        </ul>
     </div>
 
     <section class="container">
@@ -51,10 +53,8 @@
         <label>Tipo de frete:</label>
         <span>{{ session["tipoFreteNome"] }}</span>
         <br>
-        <label>Data e Hora:</label>
+        <label>Previsão de Entrega:</label>
         <span>{{ session["dataEntradaPedido"] }}</span>
-        <span>{{ session["horaEntradaPedido"] }}</span>
-        <br><br>
     </div>
 
     <div class="aprove-prod">
@@ -64,4 +64,5 @@
         </ul>
     </div>
 </body>
+
 </html>

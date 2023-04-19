@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ver pedidos</title>
 </head>
+
 <body>
     <div class="sidebar">
         <div class="info-adm">
@@ -14,20 +16,22 @@
             <br>
             <label>RM: {{ session['matriculaAdm'] }}</label>
             <br><br><br>
-            <a href="#">Sair</a>
+            <a href="../templates/login.html">Sair</a>
+            <hr>
+            <ul class="nav-list">
+                <a href="../templates/home_adm.html">Home</a>
+                <br>
+                <a href="../templates/ver_pedidos_adm.html">Ver pedidos</a>
+                <br>
+                <a href="../templates/colaboradores_adm.html">Colaboradores</a>
+                <br>
+                <a href="../templates/etapas_recebimento_adm.html">Etapas de Recebimento</a>
+                <br>
+                <a href="../templates/cadastros_adm.html">Cadastros</a>
+                <br>
+                <a href="../templates/regras_recebimento_adm.html">Regras de Recebimento</a>
+            </ul>
         </div>
-        <hr>
-        <ul class="nav-list">
-            <a href="#">Home</a>
-            <br>
-            <a href="">Ver pedidos</a>
-            <br>
-            <a href="">Colaboradores</a>
-            <br>
-            <a href="">Etapas de Recebimento</a>
-            <br>
-            <a href="">Cadastros</a>
-        </ul>
     </div>
 
     <section class="container">
@@ -38,7 +42,7 @@
     <div class="numero-ped">
         <label>Número do pedido:</label>
         <input type="text">
-        <button type="submit" class="pesquisar"></button>
+        <button type="submit" class="btn_pesquisar" name="pesquisar"><img src="../static/img/lupa.png" alt="lupa" class="lupa"></button>
     </div>
 
     <div class="info-ped">
@@ -54,4 +58,5 @@
         <button><a href="">Ver Detalhes</a></button>
     </div>
 </body>
+
 </html>
