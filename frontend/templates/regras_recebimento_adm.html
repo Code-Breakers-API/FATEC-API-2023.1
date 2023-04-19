@@ -5,13 +5,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Regras de Recebimento</title>
 </head>
 
 <body>
     <div class="sidebar">
         <div class="info-adm">
             <h1>Nome: {{ session['nomeAdm'] }}</h1>
+            <label>Função: {{ session['funcaoAdministrativa'] }}</label>
+            <br>
             <label>RM: {{ session['matriculaAdm'] }}</label>
             <br><br><br>
             <a href="../templates/login.html">Sair</a>
@@ -27,25 +29,21 @@
                 <br>
                 <a href="../templates/cadastros_adm.html">Cadastros</a>
                 <br>
-                <a href="../templates/regras_recebimento_adm.html">Regras de Recebimento</a>
+                <a href="../templates/regras_recebimento_adm.html">Regras de Recebimentos</a>
             </ul>
         </div>
-
     </div>
 
-    <section class="container">
-        <h2>Home</h2>
-        <hr>
-    </section>
-
-    <div class="button-navegadores">
-        <button><img src="../static/img/ver.png" alt="ver" name="ver"><a href="../templates/ver_pedidos_adm.html">Ver pedidos</a></button>
-        <button><img src="../static/img/colaboladores.png" alt="colaboladores" name="colaboladores"><a href="../templates/colaboradores_adm.html">Colaboradores</a></button>
-        <button><img src="../static/img/recebimento.png" alt="recebimento" name="recebimento"><a href="../templates/etapas_recebimento_adm.html">Etapas de recebimento</a></button>
+    <form method="post" action="">
+        <button type="submit" class="cadastrar" name="cadastrar"><a href="../templates/cadastro_regras_recebimento_adm.html">Cadastrar Regras de Recebimento</a></button>
         <br><br>
-        <button><img src="../static/img/cadastros.png" alt="cadastros" name="cadastros"><a href="../templates/cadastros_adm.html">Cadastros</a></button>
-        <button><a href="../templates/regras_recebimento_adm.html">Regras de Recebimento</a></button>
-    </div>
+        <label>Nome do Produto:</label>
+        <span>{{ session['nomePedido'] }}</span>
+        <br>
+        <label>Peso ideal:</label>
+        <span>{{ session['pesoPedido'] }}</span>
+        <br><br>
+    </form>
 </body>
 
 </html>

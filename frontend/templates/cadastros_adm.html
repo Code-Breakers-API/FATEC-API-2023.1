@@ -1,42 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>Cadastros</title>
 </head>
+
 <body>
     <div class="sidebar">
         <div class="info-adm">
             <h1>Nome: {{ session['nomeAdm'] }}</h1>
             <label>RM: {{ session['matriculaAdm'] }}</label>
             <br><br><br>
-            <a href="#">Sair</a>
+            <a href="../templates/login.html">Sair</a>
+            <hr>
+            <ul class="nav-list">
+                <a href="../templates/home_adm.html">Home</a>
+                <br>
+                <a href="../templates/ver_pedidos_adm.html">Ver pedidos</a>
+                <br>
+                <a href="../templates/colaboradores_adm.html">Colaboradores</a>
+                <br>
+                <a href="../templates/etapas_recebimento_adm.html">Etapas de Recebimento</a>
+                <br>
+                <a href="../templates/cadastros_adm.html">Cadastros</a>
+                <br>
+                <a href="../templates/regras_recebimento_adm.html">Regras de Recebimento</a>
+            </ul>
         </div>
-        <hr>
-        <ul class="nav-list">
-            <a href="#">Home</a>
-            <br>
-            <a href="">Ver pedidos</a>
-            <br>
-            <a href="">Colaboradores</a>
-            <br>
-            <a href="">Etapas de Recebimento</a>
-            <br>
-            <a href="">Cadastros</a>
-        </ul>
     </div>
 
     <section class="container">
-        <h2>Home</h2>
+        <h2>Cadastros</h2>
         <hr>
     </section>
 
     <div class="button-navegadores">
-        <button><a href="">Cadastro de Regras de Recebimento</a></button>
-        <button><a href="">Cadastro de Produtos</a></button>
-        <button><a href="">Cadastro de Colaboradores</a></button>
+        <button><img src="../static/img/regras_de_recebimento.png" alt="recebimento" name="recebimento"><a href="../templates/cadastro_regras_recebimento_adm.html">Cadastro de Regras de Recebimento</a></button>
+        <button><img src="../static/img/produtos.png" alt="produtos" name="produtos"><a href="../templates/cadastro_produto_adm.html">Cadastro de Produtos</a></button>
+        <button><img src="../static/img/cadastro_de_colaboradores.png" alt="cadastro_de_colaboradores" name="cadastro_de_colaboradores"><a href="../templates/cadastro_colaboradores_adm.html">Cadastro de Colaboradores</a></button>
     </div>
 </body>
+
 </html>
