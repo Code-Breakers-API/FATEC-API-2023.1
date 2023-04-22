@@ -1,0 +1,34 @@
+body{
+    background-color: #FFF5F5;
+}
+
+.EntradaMateriais{
+    color: #5F3A42;
+}
+
+.Entrada{
+    background-color: #F5DDBB;
+    color: #37000C;
+    border-radius: 5px;
+}
+
+.observacao{
+    width: 100%;
+    border-radius: 6px;
+}
+
+.negar{
+    background-color: #D8422D;
+    color: #37000C;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 3px;
+}
+
+.aprovar{
+    background-color: #E3B8B2;
+    color: #37000C;
+    text-decoration: none;
+    width: 100%;
+    border-radius: 3px;
+}
