@@ -1,0 +1,52 @@
+* {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: #E3B8B2;
+}
+
+#login {
+    padding-top: 20px;
+    margin-top: 15px;
+    font-size: 3em;
+    font-weight: bold;
+    color:#000;
+}
+
+.infoConta {
+    background-color: #F5DDBB;
+    padding: 30px 56px;
+    border: 10px;
+    font-size: 1.7em;
+    margin: 0 auto;
+    width: fit-content;
+    text-align: center;
+    border-radius: 25px;
+    border: solid 3px black;
+    font-weight: bold;
+}
+
+.infoContaName {
+    background-color: #F5DDBB;
+    color: #000;
+}
+
+.infoConta input {
+    text-align: left;
+    border-radius: 12px;
+    background-color: #FFF;
+}
+
+.entrar {
+    background-color: #E3B8B2!important;
+    border-radius: 15px;
+    color: #000;
+    font-weight: bolder;
+}
+
+
+  
+  
+  
+  
+  
+  

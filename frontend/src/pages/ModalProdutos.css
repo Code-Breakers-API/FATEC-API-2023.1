@@ -1,0 +1,12 @@
+#modal {
+    text-align: center;
+    font-weight: bold;
+}
+
+#modalbotton {
+    background-color: green;
+    border-color: green;
+    color: white!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+}
