@@ -1,0 +1,41 @@
+* {
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+.buttonNavegadores {
+    color: #000000!important;
+    text-decoration: none;
+    margin-top: 3em;
+    margin-left: 18em;
+    border-radius: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.buttonAdm {
+    margin: 1em;
+    padding: 2em 2em;
+    background-color: #F5DDBB;
+    font-weight: bold;
+    border-radius: .6em;
+}
+
+.buttonAdmER {
+    margin-top: 1em;
+    margin-left: .8em;
+    padding: 1.8em 2.9em;
+    background-color: #F5DDBB;
+    font-weight: bold;
+    border-radius: .6em;
+}
+
+.buttonAdm:hover, .buttonAdmER:hover {
+    background-color: #E3B8B2;
+  }
+  
+.HomeAdm {
+    margin-top: -21em;
+    margin-left: 11em;
+}

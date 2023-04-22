@@ -1,0 +1,37 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+  
+.HomeAnalista {
+    margin-top: -21em;
+    margin-left: 11em;
+}
+
+.infoPed {
+    color: #000000!important;
+    text-decoration: none;
+    margin-top: 2em;
+    margin-left: 15em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.infoPed input {
+    margin-left: 1em;
+    border-radius: .3em;
+    width: 21em;
+    border: solid 1px black;
+}
+
+.infoPed button {
+    margin-left: .6em;
+    padding: .15em .2em;
+    border: solid .6px #A18093;
+    border-radius: 2em;
+    background-color: #F5DDBB;
+}
+

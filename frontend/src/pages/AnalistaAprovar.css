@@ -1,0 +1,15 @@
+* {
+    color: #000;
+}
+
+
+
+.tabelaAnalista {
+    max-width: 80vw;
+}
+
+.externa {
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
