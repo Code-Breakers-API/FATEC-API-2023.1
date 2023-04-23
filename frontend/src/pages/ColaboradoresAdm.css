@@ -1,0 +1,15 @@
+body{
+    background-color: #FFF5F5;
+}
+
+a{
+    color: #37000C;
+    text-decoration: none;
+}
+
+.DadosGerais{
+    background-color: #F5DDBB;
+    color: #5F3A42;
+    justify-content: space-between;
+    border-radius: 5px;
+}
