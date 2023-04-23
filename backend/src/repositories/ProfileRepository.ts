@@ -1,4 +1,4 @@
 import { AppDataSource } from "../data-source";
-import { Profile } from "../entities/ProfileUsers";
+import { ProfileUsers } from "../entities/ProfileUsers";
 
-export const profileRepository = AppDataSource.getRepository(Profile)
+export const profileRepository = AppDataSource.getRepository(ProfileUsers)

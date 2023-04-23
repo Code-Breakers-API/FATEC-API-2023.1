@@ -1,5 +1,5 @@
-import { Entity, Column, PrimaryGeneratedColumn, ManyToOne, JoinColumn } from 'typeorm';
-import { Profile } from './ProfileUsers';
+import { Entity, Column, PrimaryGeneratedColumn, JoinColumn, OneToOne } from 'typeorm';
+import { ProfileUsers } from './ProfileUsers';
 
 @Entity('users')
 class User{
@@ -9,21 +9,21 @@ class User{
     @Column({type: 'varchar', length: 100, nullable: false })
     name: string
 
-    @Column({type:'varchar', length: 100, nullable: false })
+    @Column({type:'varchar', length: 100, nullable: false, unique: true })
     cpf: string
 
-    @Column({type: 'int', nullable: false })
-    register: string
+    @Column({type: 'varchar', length: 100, nullable: false, unique: true})
+    email: string
 
     @Column({type: 'varchar', length: 100, nullable: false })
-    password_user: string
+    password: string
 
-    @Column({type: 'bool', nullable: false })
-    active: boolean
+    @Column('boolean', {default: true})
+    is_active: boolean;
 
-    @ManyToOne(() => Profile, profile => profile.users)
+    @OneToOne(() => ProfileUsers, profile => profile.id, {nullable: false})
     @JoinColumn({name: 'profile_id'})
-    profile: Profile
+    profile: ProfileUsers
 }
 
 export default User;
