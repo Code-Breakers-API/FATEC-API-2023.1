@@ -38,7 +38,7 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 | <div align="center"> 04 </div>|<div align="center"> 04/06/2023 </div>|<div align="center"> ❌ Não iniciada </div>| |
 
 ## :clock2: Timeline das entregas <a id="timeline"></a>
->_Em construção_ 🚧
+![Timeline](docs/timeline/timeline.png)
 
 ## :pencil: Product Backlog Total <a id="pbtotal"></a>
 Acesse aqui o Product Backlog Total => [Product Backlog](./docs/backlog-total/product-backlog.md)
