@@ -10,7 +10,7 @@
  <a href="#introducao">Introdução</a> •
  <a href="#objetivo">Objetivo</a> •
  <a href="#cronograma">Cronograma das Entregas das Sprints</a> •
- <a href="#Timeline">Timeline</a> •
+ <a href="#timeline">Timeline</a> •
  <a href="#pbtotal">Backlog Total</a> •
  <a href="#tecnologia">Ferramentas e Tecnologias Utilizadas</a> •
  <a href="#equipe">Equipe</a> 
