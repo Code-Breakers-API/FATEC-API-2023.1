@@ -33,7 +33,7 @@ O objetivo do projeto é a partir do desafio proposto pela empresa parceira (Jai
 |Sprint|Previsão de Entrega|Status|Tag|
 |-------|-------------------|------|------|
 | <div align="center"> 01 </div>|<div align="center"> 02/04/2023 </div>|<div align="center"> ✔️ Entregue </div>| [Ver relatório](https://github.com/Code-Breakers-API/FATEC-API-2023.1/releases/tag/Sprint1) |
-| <div align="center"> 02 </div>|<div align="center"> 23/04/2023 </div>|<div align="center"> ⌛ Em andamento </div>| |
+| <div align="center"> 02 </div>|<div align="center"> 23/04/2023 </div>|<div align="center"> ✔️ Entregue </div>| [Ver relatório](https://github.com/Code-Breakers-API/FATEC-API-2023.1/releases/tag/Sprint2) |
 | <div align="center"> 03 </div>|<div align="center"> 14/05/2023 </div>|<div align="center"> ❌ Não iniciada </div>| |
 | <div align="center"> 04 </div>|<div align="center"> 04/06/2023 </div>|<div align="center"> ❌ Não iniciada </div>| |
 
