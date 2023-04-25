@@ -5,7 +5,7 @@ function ColaboradoresAdm() {
     return (
         <>
             <div>
-                <Sidebar />
+                <Sidebar name='' email=''/>
                 <form action="" className='DadosGerais'>
                     <h3>Dados Gerais</h3>
                     <p>

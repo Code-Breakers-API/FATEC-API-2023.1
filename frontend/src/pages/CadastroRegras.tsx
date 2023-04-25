@@ -6,7 +6,7 @@ function CadastroRegras() {
         <>
 
         <div className='tudoCR'>
-            <Sidebar />
+            <Sidebar name='' email='' />
         
         <div className='regrasCss'>
             <h2>Cadastro de Regras</h2>

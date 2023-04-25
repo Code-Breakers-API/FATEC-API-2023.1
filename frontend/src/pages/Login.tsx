@@ -1,9 +1,11 @@
 import { FormEvent, useRef } from 'react';
 import './Login.css';
+import { useNavigate } from 'react-router';
 
 function Login() {
   const email = useRef<HTMLInputElement>(null);
   const password = useRef<HTMLInputElement>(null);
+  const history = useNavigate();
 
   async function authenticate(e: FormEvent<HTMLFormElement>){
     e.preventDefault();
@@ -30,11 +32,12 @@ function Login() {
       if(response.ok){
         const token = data.token
         localStorage.setItem('token', token)
-        alert('Autenticado')
+        localStorage.setItem('email', data.user.email)
+        localStorage.setItem('name', data.user.name)
+        history('/HomeAdm', { state :{ name: data.user.name, email: data.user.email } });
       }else{
         alert('Autenticação inválida')
       }
-      console.table(data)
   }
 
   return (
