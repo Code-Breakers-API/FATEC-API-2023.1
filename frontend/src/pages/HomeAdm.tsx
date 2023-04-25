@@ -3,11 +3,17 @@ import Sidebar from './Sidebar';
 import './HomeAdm.css'
 import { FaList, FaUserFriends, FaTasks, FaRegFileAlt } from 'react-icons/fa';
 
-function HomeAdm() {
+interface HomeAdmProps {
+    name: string;
+    email: string;
+}
+
+function HomeAdm(props: HomeAdmProps) {
+
     return (
         <>
             <div>
-                <Sidebar />
+                <Sidebar name={ props.name } email={ props.email } />
 
                 <h2 className='HomeAdm'>Home</h2><br />
                 
@@ -24,7 +30,7 @@ function HomeAdm() {
                             COLABORADORES
                         </button>
                     </a>
-                    <a href="#">
+                    <a href="/CadastroColaborador">
                         <button className='buttonAdm'>
                             <FaRegFileAlt size={45}/><br /><br />
                             CADASTROS

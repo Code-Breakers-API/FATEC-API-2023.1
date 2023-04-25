@@ -6,7 +6,7 @@ function CadastrosAdm() {
     return (
         <>
             <div>
-                <Sidebar />
+                <Sidebar name='' email=''/>
 
                 <h2 className='HomeAdm'>Home</h2><br />
 

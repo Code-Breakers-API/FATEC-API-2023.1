@@ -3,7 +3,12 @@ import { FaHome, FaSearch, FaUsers, FaList, FaEdit } from 'react-icons/fa';
 import { Card, Nav } from 'react-bootstrap';
 import './Sidebar.css';
 
-function Sidebar() {
+interface sidebarProps {
+  name: string;
+  email: string;
+}
+
+function Sidebar(props: sidebarProps) {
   return (
     <>
       <Card className='sidebar'>
@@ -35,8 +40,8 @@ function Sidebar() {
           </Nav>
         </div>
         <div className="info-adm">
-          <label className="info-adm-label">{`Nome: ${sessionStorage.getItem('nomeAdm')}`}</label>
-          <label className="info-adm-label">{`ID: ${sessionStorage.getItem('matriculaAdm')}`}</label>
+          <label className="info-adm-label">Nome: {props.name}</label>
+          <label className="info-adm-label">Email: {props.email}</label>
           <button className='sair'>SAIR</button>
         </div>
       </Card.Body>
